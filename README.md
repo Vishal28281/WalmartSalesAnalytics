@@ -65,7 +65,3 @@ weeks.
 - **Forecasting** (ARIMA, Prophet, ML models)  
 
 ---
-
-✨ This README gives your repo a professional edge and makes it clear to collaborators what the project is about.  
-
-Would you like me to also add a **“Getting Started” section with installation and usage instructions** so others can easily run your project?
